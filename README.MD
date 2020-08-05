@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/75gjf3i9fbwgywmu?svg=true)](https://ci.appveyor.com/project/Lebedeva-Kris/apici)
